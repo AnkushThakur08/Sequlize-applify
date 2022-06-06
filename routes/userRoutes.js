@@ -76,3 +76,5 @@ router.get("/operatorOr", OrOperator);
 
 //8. Not equal to
 router.get("/notequaltooperator", notEqualto);
+
+module.exports = router;
