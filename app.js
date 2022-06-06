@@ -6,9 +6,6 @@ const app = express();
 // My Routes
 const allRoutes = require("./routes/userRoutes");
 
-// COMMENt
-// ANKUSH
-
 // PORT
 const port = 8000;
 
